@@ -1,0 +1,23 @@
+{
+  "name": "api-tests-cypress",
+  "version": "1.0.0",
+  "description": "API tests using Cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bash-ali-rana/API-Tests-Cypress.git"
+  },
+  "author": "Basharat Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bash-ali-rana/API-Tests-Cypress/issues"
+  },
+  "homepage": "https://github.com/bash-ali-rana/API-Tests-Cypress#readme"
+}
